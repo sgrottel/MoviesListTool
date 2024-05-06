@@ -3,3 +3,4 @@
 /bin/
 desktop.ini
 *.user
+Properties/launchSettings.json

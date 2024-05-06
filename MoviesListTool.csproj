@@ -6,6 +6,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <EnableSourceControlManagerQueries>false</EnableSourceControlManagerQueries>
+    <RootNamespace>MoviesList</RootNamespace>
+    <ApplicationIcon>MoviesListTool.ico</ApplicationIcon>
+    <Authors>SGrottel</Authors>
+    <Description>Tool to process my Movies list</Description>
+    <Copyright>Copyright 2024, by SGrottel</Copyright>
+    <Version>1.0.0</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="MoviesListTool.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="YamlDotNet" Version="15.1.2" />
+  </ItemGroup>
 
 </Project>
