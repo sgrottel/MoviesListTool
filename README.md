@@ -1,5 +1,5 @@
 # 🎦 Movies List Tool
-Utility to process and convert movie list yaml files.
+Utility to process and convert movies list yaml files.
 
 ## Features
 * Unify file
